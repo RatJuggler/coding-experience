@@ -1,0 +1,6 @@
+{
+  "java.project.sourcePaths": [
+    "builder-pattern/src",
+    "builder-pattern/test"
+  ]
+}
